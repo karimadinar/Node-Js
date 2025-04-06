@@ -29,7 +29,7 @@ This project contains a series of exercises demonstrating various Node.js featur
 1. Clone the repository:
 
 ```bash
-git clone <https://github.com/CodeByOS/Node-Project>
+git clone https://github.com/CodeByOS/Node-Project
 ```
 
 2. Install Dependencies :
